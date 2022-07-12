@@ -18,7 +18,7 @@
 * Login 할 때 MySql에 로그인 정보가 있어야 로그인 할 수 있습니다
 * Home 탭에서 과목 구분, 학과, 학년을 선택하여 학교 시간표를 볼 수 있습니다
 * Find 탭에서 전체 책의 정보를 볼 수 있고, 원하는 책을 검색할 수도 있습니다
-* Post 탭에서 중고로 거래하고 싶은 책을 올릴 수 있습니다
+* Post 탭에서 중고로 거래하고 싶은 책을 올릴 수 있습니다!
 * My 탭에서 내가 업로드한 책들의 정보를 볼 수 있습니다
 ** Home 탭에서 과목 클릭 시 교재 구매 사이트로 이동 혹은 중고 거래를 할 수 있습니다.
 
@@ -59,3 +59,10 @@
 학교 API와 연동 시 바로 사용할 수 있는 앱이라고 생각합니다.
 카카오 로그인 대신 학교 메일과 연동.
 금융 거래 시스템 구축.
+
+![Image from iOS (2)](https://user-images.githubusercontent.com/98383656/178478256-d07830d0-bed3-4f48-9104-bc1357d86f18.png)
+![Image from iOS (1)](https://user-images.githubusercontent.com/98383656/178478261-cc1a33b3-5a30-4434-812c-db0eb1f37f7d.png)
+![Image from iOS](https://user-images.githubusercontent.com/98383656/178478264-18330f69-a5c4-4a4a-9604-5f6079ade018.png)
+![Image from iOS (2)](https://user-images.githubusercontent.com/98383656/178478267-5e77e4a5-9070-4586-b9a2-c460fb189b46.jpg)
+![Image from iOS (1)](https://user-images.githubusercontent.com/98383656/178478271-b078730b-87b7-4b80-95cd-4c6d2739e90b.jpg)
+![Image from iOS](https://user-images.githubusercontent.com/98383656/178478274-a2779cdb-7c38-45d7-afd5-f2ec18a3b71c.jpg)
